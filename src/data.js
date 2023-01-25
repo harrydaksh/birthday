@@ -2,7 +2,7 @@ import img from '../src/assets/Subject.png'
 import img2 from '../src/assets/Subject 2.png'
 import img3 from '../src/assets/Subject 3.png'
 import img4 from '../src/assets/Subject 4.png'
-import img5 from '../src/assets/Subject 5.png'
+import img5 from '../src/assets/Subject 3.png'
 export default [
   {
     id: 1,
